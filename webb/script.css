@@ -6,9 +6,10 @@ body{
 }
 .box{
     width: 300px;
+    padding: 50px;
+    position: absolute;
     top: 370px;
-    left: 970px;
-    right: 500px;
+    left: 770px;
     border-radius: 25px;
     transform: translate(-50%, -50%);
     background: #fdfdfd;
